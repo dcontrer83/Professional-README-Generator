@@ -1,7 +1,7 @@
 # Professional README Generator
 
   ## Description 
-  In this project, the user will be able to generate a professional README file using the terminal and answering the given questions.
+  In this project, the user will be able to generate a professional README.md file using the terminal and answering the given questions.
 
   ## Walkthrough Video
   ![Walkthrough](./utils/videos/Professional-README-Generator-Video.gif)
