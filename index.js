@@ -24,7 +24,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'What is the usage of your project?',
+            message: 'What are the instructions for how to use your project?',
             name: 'usage',
         },
         {
