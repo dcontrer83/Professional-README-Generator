@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   let badge;
   let link;
 
-  // if else statments for different license
+  // if else statments for different license to create badge and link for said license
   if(data.license === 'The Unlicense') {
     badge = "https://img.shields.io/badge/license-The_Unlicense-red"
     link = "https://choosealicense.com/licenses/unlicense/"
